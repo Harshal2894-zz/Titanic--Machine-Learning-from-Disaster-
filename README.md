@@ -13,15 +13,11 @@ In this challenge, we were asked to complete the analysis of what sorts of peopl
 
 --Installations required: I am using Python 3.6.0 for this project with Jupyter notebook as Integrated Development Environment(IDE). You need to install the following libraries.
 
-NumPy (for documentation:http://www.numpy.org/)
-Pandas (for documentation:http://pandas.pydata.org/)
-Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
-Matplotlib.pyplot (for documentation:https://matplotlib.org/api/pyplot_api.html)
+ 1. NumPy (for documentation:http://www.numpy.org/)
+ 2. Pandas (for documentation:http://pandas.pydata.org/)
+ 3. Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
+ 4. Matplotlib.pyplot (for documentation:https://matplotlib.org/api/pyplot_api.html)
 
 --Code of the project: The code contains in the 'titanic.ipynb' file.
 
 --Data for the problem: The training data contains in 'train.csv' file and the testing data contains in the 'test.csv'.
-
---Practice Skills:
-Binary classification
-Python basics
